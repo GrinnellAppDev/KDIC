@@ -29,6 +29,6 @@ Special Thanks to the Grinnell Appdev Team!
 * Colin Tremblay '14 (@tremblay)
 * Daniel Torres '15 (@torresda)
 * Spencer Liberto '15 (@spencerbliberto)
-* Patrick Triest '16 (@triestpa)
+* Patrick Triest '15 (@triestpa)
 
 For App Support, feedback, suggestions etc. please email appdev@grinnell.edu
